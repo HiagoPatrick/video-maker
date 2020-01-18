@@ -17,6 +17,7 @@ function start(){
 		return selectedPrefixText
 	}
 
+
 	console.log(content)
 }
 
